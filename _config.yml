@@ -1,0 +1,5 @@
+markdown: rdiscount
+pygments: true
+name: thunder-ex.org
+description: Elixir Web Framework
+url: http://thunder-ex.org
